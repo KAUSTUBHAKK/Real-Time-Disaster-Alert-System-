@@ -36,3 +36,7 @@ A real-time disaster alert dashboard using **Mapbox**, **AWS S3**, and **JavaScr
 ## 🌙 Dark Mode
 
 ![Dark Mode](dark-mode.png)
+
+## 📧 Alert Mail
+
+![Alert Mail](alert-mail.png)
